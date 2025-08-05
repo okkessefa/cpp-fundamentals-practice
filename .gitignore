@@ -1,0 +1,27 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore system files
+desktop.ini
+Thumbs.db
+
+# Ignore build/output files
+*.exe
+*.out
+*.o
+*.obj
+*.log
+
+# Ignore CMake or Make artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Ignore backups or temp files
+*~
+*.swp
+*.bak
+
+# Ignore environment folders
+build/
