@@ -1,6 +1,6 @@
 # Ignore VS Code settings
 .vscode/
-.vscode
+
 
 # Ignore OS-specific files
 .DS_Store

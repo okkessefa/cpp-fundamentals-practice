@@ -40,6 +40,13 @@ int main()
         }
         myFile.close();
     }
+    else{
+        throw std::runtime_error("Failed to open file");
+    }
 
     return 0;
 }
+/*
+    
+
+*/
